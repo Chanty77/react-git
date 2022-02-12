@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(223, 223, 235);
+}
+
+nav{
+    border: 1px dashed black;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 250px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.otroestilo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#masestilos {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
